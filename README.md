@@ -21,7 +21,7 @@ A developer in constant evolution and passionate about software quality.
 ---
 
 🔗 Vamos conectar?  
-[LinkedIn](https://www.linkedin.com/leandro-aallvess-dev) | [Portfólio](https://seusite.com) *(Meu Portfólio em desenvolvimento)*
+[LinkedIn](https://www.linkedin.com/in/leandro-aallvess-dev) | [Portfólio](https://seusite.com) *(Meu Portfólio em desenvolvimento)*
 
 
 ## 🛠️ Tecnologias e Habilidades
