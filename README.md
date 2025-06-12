@@ -1,12 +1,12 @@
 ## 👋 Olá, eu sou o Leandro!
 
-Desenvolvedor em constante evolução e apaixonado por qualidade de software.
+Desenvolvedor em constante evolução e apaixonado pelas tecnologias.
 
 ---
 
 ## 👋 Hello, I'm Leandro!
 
-A developer in constant evolution and passionate about software quality.
+A developer in constant evolution and passionate about technologies.
 
 ---
 
